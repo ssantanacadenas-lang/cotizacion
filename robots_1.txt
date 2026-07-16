@@ -1,0 +1,23 @@
+# CO-DATA · cotizaciones digitales
+# Fuera de buscadores, pero se permite la vista previa al compartir el enlace.
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Slackbot-LinkExpanding
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: *
+Disallow: /
